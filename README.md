@@ -1,7 +1,7 @@
 # Jira WHMCS connection
 
 ## Features
-- Redirects admins/clients to Jira Service Desk in case they click on view ticket(s).
+- Redirects admins/clients to Jira Service Desk in case they click on view ticket(s) or after the creation of a ticket in Jira.
 - If client or admin stil manages to create a ticket through WHMCS the ticket will be send to Jira and be deleted in WHMCS.
 
 ## Installation
